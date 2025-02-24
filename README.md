@@ -1,10 +1,24 @@
-<h1 align="center">Hi 👋, I'm Abhijit Payra</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+# 👋 Hi there, I'm Abhijit Payra!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhijit-payra-977671311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijit-payra-977671311" height="30" width="40" /></a>
-</p>
+I'm a passionate web developer focused on building full-stack web applications. I love turning ideas into reality using modern web technologies.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+- 🌱 Currently sharpening my skills in full-stack web development  
+- 💡 Exploring new technologies and improving my problem-solving skills  
+- 💻 Tech Stack:  
+  - **Frontend:** HTML, CSS, JavaScript, React  
+  - **Backend:** Node.js, Express.js  
+  - **Database:** MongoDB  
+- ⚡ Fun fact: I enjoy building projects that challenge me and help me grow  
+
+## 🛠️ Projects
+- 🐦 **Twitter Replica Web App** – A Twitter-like web application with features like theme switching, post likes, and more!  
+
+## 📫 Let's Connect
+- [LinkedIn](abhijit-payra-977671311)  
+- [Email](abhijitpayra65@gmail.com)
+- - [Portfolio Website](working on it...)  
+
+## 📊 GitHub Stats
+![Abhijit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijitpayra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpayra&layout=compact&theme=radical)
